@@ -17,8 +17,6 @@ public class Main {
           graph.produce_graph(100);
           graph.printGraph();
 
-        //this is a test for the commit!! dawd
-
 
         }
 }
