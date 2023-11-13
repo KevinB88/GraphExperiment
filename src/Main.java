@@ -17,14 +17,14 @@ public class Main {
           graph.produce_graph(100);
           graph.printGraph();
 
-        //this is a test
+        //this is a test for the commit!!
 
 
         }
 }
 
 //testing the connection with the individual graph nodes
-   /*     GraphNode<String>nation_1 = new GraphNode<>("USA");
+   /*     GraNode<String>nation_1 = new GraphNode<>("USA");
           GraphNode<String>nation_2 = new GraphNode<>("Canada");
           GraphNode<String>nation_3 = new GraphNode<>("Mexico");
           GraphNode<String>nation_4 = new GraphNode<>("Spain");
